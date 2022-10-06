@@ -1,0 +1,83 @@
+.container {
+  font-family: "Ubuntu", sans-serif;
+}
+.container { background-image: url('rains.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+padding:100px;
+text-align: center;} 
+.search-bar {display: flex;
+width: 150px;
+padding-bottom: 40px;}
+.search-bar {flex: 1 ;}
+.card {
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 30px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+  background-color: #fafafa;
+}
+
+
+h1 {
+  padding-bottom: 10px;
+}
+
+input {
+  padding: 10px;
+}
+
+h2 {
+  padding-top: 30px;
+}
+
+h3 {
+  padding-bottom: 10px;
+}
+
+.current-temperature {
+  font-size: 48px;
+  padding-bottom: 0;
+}
+
+.celsius {
+  font-size: 40px;
+}
+.farenheight {
+  font-size: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.details {
+  font-size: 18px;
+}
+
+.high {
+  font-size: 20px;
+}
+
+.low {
+  font-size: 20px;
+}
+
+i {
+  font-size: 40px;
+  padding: 15px;
+  text-align: left;
+}
+
